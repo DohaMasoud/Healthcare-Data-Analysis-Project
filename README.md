@@ -1,4 +1,4 @@
-# 📊 PurchHealthcare Analysis Data Report
+# 📊 Healthcare Analysis Data
 
 ## 📝 Project Overview
 
